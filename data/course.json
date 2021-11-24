@@ -1,0 +1,36 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Social Science",
+      "Urban Studies"
+    ],
+    [
+      "Humanities",
+      "History",
+      "American History"
+    ],
+    [
+      "Social Science",
+      "Public Administration"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "4b92f9a6-c29f-a3a7-7718-5f6a5a9b28d5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "American Urban History I",
+  "course_description": "This course is a seminar on the history of institutions and institutional change in American cities from roughly 1850 to the present. Among the institutions to be looked at are political machines, police departments, courts, schools, prisons, public authorities, and universities. The focus of the course is on readings and discussions.\n",
+  "department_numbers": [
+    "11",
+    "21H"
+  ],
+  "extra_course_numbers": "21H.231J",
+  "primary_course_number": "11.013J",
+  "learning_resource_types": [
+    "Projects with Examples"
+  ],
+  "title": "Course Metadata"
+}
